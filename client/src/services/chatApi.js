@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_BASE_URL = "http://localhost:8088/api";
+const API_BASE_URL = "const API_BASE_URL = "https://ai-chatbot-demo-2-u3at.onrender.com/api";
 
 /**
  * Sends a message + conversation history to the backend and
